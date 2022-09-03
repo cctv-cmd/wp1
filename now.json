@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "https://wallpaper11.pantheonsite.io/$1"}
+  	{"src": "/(.*)","dest": "https://wallpaper12.pantheonsite.io/$1"}
   ]
 }
