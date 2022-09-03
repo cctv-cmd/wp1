@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "https://cctv-cmd.github.io/wp1/$1"}
+  	{"src": "/(.*)","dest": "https://wallpaper11.vercel.app/$1"}
   ]
 }
